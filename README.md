@@ -1,3 +1,6 @@
+
+# first install
+python -m pip install cryptography
 # ECDSA
 ECDSA in python, this code generates private keys ans public key, also can store keys in pem file format.
 it isused for encryption of data.
